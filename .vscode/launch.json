@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "WikiMapsServerApplication",
+      "request": "launch",
+      "mainClass": "wiki.maps.WikiMapsServerApplication",
+      "projectName": "wiki-maps-server"
+    },
+    {
       "name": "ng serve",
       "type": "chrome",
       "request": "launch",

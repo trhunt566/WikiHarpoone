@@ -1,0 +1,5 @@
+<div *ngIf="randomTopic">
+    <h1>{{ randomTopic.title }}</h1>
+    <p>{{ randomTopic.extract }}</p>
+</div>
+<button (click)="getRandomArticle()">Get Random Article</button>
