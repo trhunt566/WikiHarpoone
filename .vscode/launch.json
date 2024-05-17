@@ -6,8 +6,8 @@
       "type": "java",
       "name": "WikiMapsServerApplication",
       "request": "launch",
-      "mainClass": "wiki.maps.WikiMapsServerApplication",
-      "projectName": "wiki-maps-server"
+      "mainClass": "wiki.harpoone.WikiMapsServerApplication",
+      "projectName": "wiki-harpoone-server"
     },
     {
       "name": "ng serve",
